@@ -1,6 +1,6 @@
 # sanathboddhula — Verified Developer Profile
 
-> Certified by TechMonster · Profile updated 2026-06-12
+> Certified by TechMonster · Profile updated 2026-08-26
 
 ## Tracks
 
@@ -8,6 +8,7 @@
 |---|---|---|---|
 | Frontend Engineering | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./frontend/README.md) |
 | Frontend Advanced — Next.js | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./frontend-advanced/README.md) |
+| C & Systems Programming (Zero to the Kernel) | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./c-systems/README.md) |
 
 ## Recent Verified Projects
 
