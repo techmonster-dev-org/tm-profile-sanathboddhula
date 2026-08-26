@@ -1,6 +1,6 @@
 {
   "student": "sanathboddhula",
-  "generatedAt": "2026-08-26T00:15:18.2220483Z",
+  "generatedAt": "2026-08-26T00:21:32.2025205Z",
   "verifiedBy": "techmonster-dev",
   "tracks": [
     {
@@ -26,6 +26,14 @@
       "status": "on-track",
       "verifiedCount": 0,
       "detailUrl": "./c-systems/verified-record.json"
+    },
+    {
+      "track": "cpp-from-zero",
+      "trackTitle": "C++ From Zero (Absolute Beginner to Modern C++)",
+      "progressPct": 0,
+      "status": "on-track",
+      "verifiedCount": 0,
+      "detailUrl": "./cpp-from-zero/verified-record.json"
     }
   ],
   "manualEntries": []
