@@ -1,6 +1,6 @@
 {
   "student": "sanathboddhula",
-  "generatedAt": "2026-06-12T00:08:00.9124365Z",
+  "generatedAt": "2026-08-26T00:15:18.2220483Z",
   "verifiedBy": "techmonster-dev",
   "tracks": [
     {
@@ -18,6 +18,14 @@
       "status": "on-track",
       "verifiedCount": 0,
       "detailUrl": "./frontend-advanced/verified-record.json"
+    },
+    {
+      "track": "c-systems",
+      "trackTitle": "C & Systems Programming (Zero to the Kernel)",
+      "progressPct": 0,
+      "status": "on-track",
+      "verifiedCount": 0,
+      "detailUrl": "./c-systems/verified-record.json"
     }
   ],
   "manualEntries": []
