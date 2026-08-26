@@ -9,6 +9,7 @@
 | Frontend Engineering | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./frontend/README.md) |
 | Frontend Advanced — Next.js | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./frontend-advanced/README.md) |
 | C & Systems Programming (Zero to the Kernel) | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./c-systems/README.md) |
+| C++ From Zero (Absolute Beginner to Modern C++) | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./cpp-from-zero/README.md) |
 
 ## Recent Verified Projects
 
